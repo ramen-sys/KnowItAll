@@ -11,4 +11,3 @@ Upload TXT/Excel docs → Instant semantic search → Local LLM answers
 • Handles refunds, policies, company data perfectly
 • "No info" guardrails - zero hallucinations
 
-🚀 Live Demo: http://localhost:8501
