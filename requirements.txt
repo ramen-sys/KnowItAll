@@ -9,3 +9,4 @@ python-dotenv>=1.1
 tiktoken>=0.9
 faiss-cpu
 langchain-ollama>=0.2
+langchain-text-splitters
