@@ -11,3 +11,5 @@ chromadb
 openpyxl
 python-dotenv
 tiktoken
+torchvision
+
