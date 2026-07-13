@@ -1,12 +1,13 @@
 # requirements_complete.txt - Full project requirements
-streamlit>=1.46
-pandas>=2.3
-openpyxl>=3.1.5
-langchain>=0.3
-chromadb>=1.0
-sentence-transformers>=5.0
-python-dotenv>=1.1
-tiktoken>=0.9
+streamlit
+numpy
+pandas
 faiss-cpu
-langchain-ollama>=0.2
+sentence-transformers
+langchain
+langchain-ollama
 langchain-text-splitters
+chromadb
+openpyxl
+python-dotenv
+tiktoken
